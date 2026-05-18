@@ -1,0 +1,28 @@
+body {background-color:rosybrown}
+
+
+
+
+#Logo {float:left; }
+#Icon {float:right; }
+#Navigacion {clear:both; }
+#Navigacion a:hover {clear:red; }
+#Navigacion a:enabled {clear:black; }
+#Navigacion a{color:black; text-decoration-line:none; }
+#Navigacion a:visted {clear:black; }
+#Navigacion a:hover {color:red; }
+
+#Header {font-family:Arial; float:left; width: 620px }
+#Header h1 {color:red;border-bottom:solid black 0.8px; }
+#Header img {border:solid black 0.7px;padding:10px; }
+
+#Rightcontent {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;float: right;width: 260px;}
+#Rightcontent h3 {color:red}
+
+#Footer {clear:both;}
+
+#Kotak {width:900px; background-color:white; margin:0px auto;}
+
+#kotaksatu {float:left; width:250px; background-color:gainsboro; margin-right:30px;border-top: solid brown 20px;}
+#kotakdua {float:left; width:250px; background-color:gainsboro; margin-right:30px;border-top: solid saddlebrown 20px;}
+#kotaktiga {float:left; width:250px; background-color:gainsboro; margin-right:30px;border-top: solid green 20px;}
